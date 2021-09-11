@@ -20,7 +20,9 @@
     <tr valign="top">
       <td width="100px" align="center">
         <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <a href="https://gitlab.com/dginovker">
+          <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        </a>
       </td>
       <td width="100px" align="center">
         <span>KDE</span><br><br><br>
