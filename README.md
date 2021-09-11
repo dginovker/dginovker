@@ -23,24 +23,24 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="100px" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+        <span>KDE</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kde.svg">
       </td>
       <td width="100px" align="center">
-        <span>WebStorm</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webstorm.svg">
+        <span>JetBrains</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jetbrains.svg">
       </td>
       <td width="100px" align="center">
-        <span>Rider</span><br><br><br>
-        <img height="64px" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/rider_icon.svg">
+        <span>Vim</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">
       </td>
       <td width="100px" align="center">
         <span>VS Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="100px" align="center">
-        <span>Designer</span><br><br><br>
-        <img height="64px" src="https://cdn.serif.com/affinity/img/global/logos/affinity-designer-icon-090520190839.svg">
+        <span>Arch Btw</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/archlinux.svg">
       </td>
     </tr>
   </tbody>
