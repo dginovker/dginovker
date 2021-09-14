@@ -41,8 +41,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="100px" align="center">
-        <span>Arch Btw</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/archlinux.svg">
+        <span>Debian</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
       </td>
     </tr>
   </tbody>
