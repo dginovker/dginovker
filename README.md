@@ -4,7 +4,7 @@
 
 - 😄 He/Him
 - 👨‍💻 Software Engineer
-- 🌎 From Ottawa, Canada
+- 🌎 Travelling the World
 - ❤ Open source
 - 🌱 Author of the original [MoneroTipsBot](https://www.reddit.com/r/MoneroTipsBot/wiki/index)
 - 💻 Co-founder of [2009scape](https://2009scape.org/)
