@@ -19,9 +19,9 @@
   <tbody>
     <tr valign="top">
       <td width="100px" align="center">
-        <span>Git</span><br><br><br>
+        <span>Gitlab</span><br><br><br>
         <a href="https://gitlab.com/dginovker">
-          <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+          <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
         </a>
       </td>
       <td width="100px" align="center">
