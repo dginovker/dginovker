@@ -14,36 +14,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=dginovker&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
 
 ## 🛠 Tools
+<table><tbody><tr valign="top"><td width="100" align="center"><span>GitLab</span><br><br><br><a href="https://gitlab.com/dginovker"><img height="64" width="64" alt="GitLab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"/></a></td><td width="100" align="center"><span>KDE</span><br><br><br><img height="64" width="64" alt="KDE" src="https://kde.org/stuff/clipart/logo/kde-logo-blue-transparent-source.svg"/></td><td width="100" align="center"><span>JetBrains</span><br><br><br><img height="64" width="64" alt="JetBrains" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"/></td><td width="100" align="center"><span>Vim</span><br><br><br><img height="64" width="64" alt="Vim" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"/></td><td width="100" align="center"><span>Godot</span><br><br><br><img height="64" width="64" alt="Godot" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/></td><td width="100" align="center"><span>Debian</span><br><br><br><img height="64" width="64" alt="Debian" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg"/></td></tr></tbody></table>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="100px" align="center">
-        <span>Gitlab</span><br><br><br>
-        <a href="https://gitlab.com/dginovker">
-          <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
-        </a>
-      </td>
-      <td width="100px" align="center">
-        <span>KDE</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/kde.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>JetBrains</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jetbrains.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>Vim</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>Debian</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+
